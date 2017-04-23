@@ -1,8 +1,0 @@
-/Users/travishaley/Source/DevServer/bin/Debug/netcoreapp1.1/DevServer.deps.json
-/Users/travishaley/Source/DevServer/bin/Debug/netcoreapp1.1/DevServer.runtimeconfig.json
-/Users/travishaley/Source/DevServer/bin/Debug/netcoreapp1.1/DevServer.runtimeconfig.dev.json
-/Users/travishaley/Source/DevServer/bin/Debug/netcoreapp1.1/DevServer.dll
-/Users/travishaley/Source/DevServer/bin/Debug/netcoreapp1.1/DevServer.pdb
-/Users/travishaley/Source/DevServer/obj/Debug/netcoreapp1.1/DevServer.AssemblyInfo.cs
-/Users/travishaley/Source/DevServer/obj/Debug/netcoreapp1.1/DevServer.dll
-/Users/travishaley/Source/DevServer/obj/Debug/netcoreapp1.1/DevServer.pdb
