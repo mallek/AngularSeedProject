@@ -1,0 +1,14 @@
+# compiled output
+wwwroot/*
+bin/
+obj/
+Debug/
+Release/
+obj/Debug/netcoreapp1.1/
+netcoreapp1.1/
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
