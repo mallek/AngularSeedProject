@@ -1,6 +1,6 @@
 {
   "name": "dev-server.client",
-  "version": "0.0.0",
+ƒ  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
