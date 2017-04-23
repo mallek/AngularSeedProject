@@ -1,5 +1,7 @@
 # compiled output
-wwwroot/*
+wwwroot/
+
+
 bin/
 obj/
 Debug/
